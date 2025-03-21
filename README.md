@@ -182,7 +182,8 @@ Change ownership of the file:
 
 \`\`\`
 
-sudo chown $(id -u):$(id -g) $HOME/.kube/config
+sudo chown $(id -u):$(id -g) $HOME/.kube/config   OR   sudo chown $(id -u):$(id -g) $HOME/.kube/config
+
 
 \`\`\`
 
